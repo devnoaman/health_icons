@@ -30,7 +30,7 @@ Then, run `flutter pub get` in your terminal.
 
 Or directly add latest version using terminal:
 ```sh
- flutter pub add health_icons: 
+ flutter pub add health_icons
 ```
 ### Usage
 
